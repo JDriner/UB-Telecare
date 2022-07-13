@@ -1,2 +1,2 @@
 # UB-Telecare
-University if Baguio Telemedicine System
+University of Baguio Telemedicine System
